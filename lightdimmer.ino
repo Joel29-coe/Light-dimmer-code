@@ -1,5 +1,5 @@
 const int potPin = 2; // Potentiometer connected to GPIO2
-const int ledPin = 2;  // LED connected to GPIO2 (D2)
+const int ledPin = 15;  // LED connected to GPIO2 (D2)
 
 void setup() {
 
